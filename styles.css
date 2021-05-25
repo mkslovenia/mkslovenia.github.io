@@ -19,12 +19,12 @@ p {
     grid-column-gap: 5px;
 }
 
-.item1 {
+.font1 {
 	font-size: 130%;
 	font-family: "Garamond";
 }
 	
-.item2 {
+.font2 {
 	font-size: 130%;
 	font-family: "Lucida Console";
 }
