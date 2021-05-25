@@ -19,6 +19,15 @@ p {
     grid-column-gap: 5px;
 }
 
-.item {
-    background: #ce8888;
+.item1 {
+    background: white;
+	color: black;
+	font-size: 130%
+	font-family: "Garamond"
+	
+.item2 {
+    background: white;
+	color: black;
+	font-size: 130%
+	font-family: "Lucida Console"	
 }
