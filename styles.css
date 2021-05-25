@@ -12,24 +12,9 @@ p {
 	color: white;	
 }
 
-.container1 {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    grid-column-gap: 5px;
 }
 
-.font1 {
-	font-size: 130%;
-	font-family: "Garamond";
-}
-	
-.font2 {
-	font-size: 130%;
-	font-family: "Lucida Console";
-}
-
-.container2 {
+.container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
