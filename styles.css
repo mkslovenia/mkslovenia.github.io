@@ -16,5 +16,5 @@ p {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
-    grid-column-gap: 20px;
+    grid-column-gap: 80px;
 }
